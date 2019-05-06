@@ -10,8 +10,6 @@ public class CalcularPeriodo {
 		LocalDate fecha = LocalDate.of(1492, Month.OCTOBER, 12);	 
 		// Mostramos cuánto tiempo ha pasado
 		calcularPeriodo("El descubrimiento de América", fecha);
-		calcularPeriodo("El descubrimiento de América", fecha);
-		calcularPeriodo("El descubrimiento de América", fecha);
 		
 	}
 	
